@@ -1,0 +1,16 @@
+{
+  "name": "ejercicio02",
+  "version": "1.0.0",
+  "description": "creating lists in javascript",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lists",
+    "js"
+  ],
+  "author": "cvaltierra",
+  "license": "ISC"
+}
