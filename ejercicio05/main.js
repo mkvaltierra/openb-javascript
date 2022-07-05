@@ -1,5 +1,5 @@
 /**
- * Crea un archivo JS que contenga las siguientes líneas
+ * Crea un archivo JS que contenga las siguientes líneas:
  */
 
 // - Una variable que contenga tu altura en centímetros (entero)
